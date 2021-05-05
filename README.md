@@ -95,14 +95,16 @@ As final considerations:
 
 ![image](https://user-images.githubusercontent.com/61367502/117090693-a4c61080-ad1e-11eb-87e8-58018ac98cf0.png)
 
-
 There is no significant trend between latitude and cloudiness.
 
 ![image](https://user-images.githubusercontent.com/61367502/117090705-abed1e80-ad1e-11eb-8b50-713de3be4fa4.png)
+
 There is no significant trend between latitude and humidity. Cities near latitude of 20 generally seems to have lower humidity and near the equator tends to have higher humidity
+
 ![image](https://user-images.githubusercontent.com/61367502/117090717-b5768680-ad1e-11eb-9b1d-ddfea91806b3.png)
 
 Max temperature is the highest for cities near the equator or slightly north and the lowest temperatures are very far north though cities have more extreme north latitude points
 
 ![image](https://user-images.githubusercontent.com/61367502/117090723-bad3d100-ad1e-11eb-9623-2f7cd520ce73.png)
+
 There is no significant trend between latitude and wind speed, not enough data points on the extremes where wind speed seems to increase slightly in the southern hemisphere to draw a conclusion
