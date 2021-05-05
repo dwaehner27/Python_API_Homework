@@ -92,3 +92,7 @@ As final considerations:
 * For max intensity in the heat map, try setting it to the highest humidity found in the data set.
 
 # Results
+Latitude_vs_Cloudiness.png
+Latitude_vs_Humidity.png
+Latitude_vs_MaxTemp.png
+Latitude_vs_Wind_Speed.png
