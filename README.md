@@ -93,10 +93,10 @@ As final considerations:
 
 # Results
 
-Latitude_vs_Cloudiness.png
+![image](https://user-images.githubusercontent.com/61367502/117090693-a4c61080-ad1e-11eb-87e8-58018ac98cf0.png)
 
-Latitude_vs_Humidity.png
+![image](https://user-images.githubusercontent.com/61367502/117090705-abed1e80-ad1e-11eb-8b50-713de3be4fa4.png)
 
-Latitude_vs_MaxTemp.png
+![image](https://user-images.githubusercontent.com/61367502/117090717-b5768680-ad1e-11eb-9b1d-ddfea91806b3.png)
 
-Latitude_vs_Wind_Speed.png
+![image](https://user-images.githubusercontent.com/61367502/117090723-bad3d100-ad1e-11eb-9623-2f7cd520ce73.png)
